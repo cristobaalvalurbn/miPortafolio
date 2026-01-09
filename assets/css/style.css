@@ -1,0 +1,38 @@
+
+  .encabezado {background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.navegacion {
+  background-color: #4f4e4e;
+ display: flex;
+justify-content: space-evenly;
+padding: 10px;
+}
+
+nav ul {
+   list-style-type: none;
+   display: flex;
+}
+
+nav ul li {
+  font-size: 130%;
+}
+
+nav ul a{
+text-decoration: none;
+color:#fff
+}
+
+.pie {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+span {
+  color: #363535;
+}
